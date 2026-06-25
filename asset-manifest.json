@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/betonprint/static/css/main.215d9043.css",
-    "main.js": "/betonprint/static/js/main.9ca8700f.js",
-    "static/js/453.29e78994.chunk.js": "/betonprint/static/js/453.29e78994.chunk.js",
-    "index.html": "/betonprint/index.html",
-    "main.215d9043.css.map": "/betonprint/static/css/main.215d9043.css.map",
-    "main.9ca8700f.js.map": "/betonprint/static/js/main.9ca8700f.js.map",
-    "453.29e78994.chunk.js.map": "/betonprint/static/js/453.29e78994.chunk.js.map"
+    "main.css": "/static/css/main.c278a2a8.css",
+    "main.js": "/static/js/main.16627761.js",
+    "static/js/453.29e78994.chunk.js": "/static/js/453.29e78994.chunk.js",
+    "index.html": "/index.html",
+    "main.c278a2a8.css.map": "/static/css/main.c278a2a8.css.map",
+    "main.16627761.js.map": "/static/js/main.16627761.js.map",
+    "453.29e78994.chunk.js.map": "/static/js/453.29e78994.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.215d9043.css",
-    "static/js/main.9ca8700f.js"
+    "static/css/main.c278a2a8.css",
+    "static/js/main.16627761.js"
   ]
 }
