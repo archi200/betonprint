@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/betonprint/static/css/main.da3c3901.css",
-    "main.js": "/betonprint/static/js/main.2a4befeb.js",
+    "main.js": "/betonprint/static/js/main.92afefd1.js",
     "index.html": "/betonprint/index.html",
     "main.da3c3901.css.map": "/betonprint/static/css/main.da3c3901.css.map",
-    "main.2a4befeb.js.map": "/betonprint/static/js/main.2a4befeb.js.map"
+    "main.92afefd1.js.map": "/betonprint/static/js/main.92afefd1.js.map"
   },
   "entrypoints": [
     "static/css/main.da3c3901.css",
-    "static/js/main.2a4befeb.js"
+    "static/js/main.92afefd1.js"
   ]
 }
